@@ -1,0 +1,4 @@
+interface:
+  display_name: "Factor Drift Monitor"
+  short_description: "Inspect factor panels for drift, coverage, and predictive degradation."
+  default_prompt: "Use $skill-factor-drift-monitor to inspect a (date, symbol) factor panel for drift, coverage drops, and optional predictive degradation."
